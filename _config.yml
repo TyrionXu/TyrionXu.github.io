@@ -47,21 +47,20 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
-
+disqus_username: TyrionXu
 # Duoshuo settings
-duoshuo_username: huxblog
+#duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+#ba_track_id:
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-92662154-1'          # Format: UA-xxxxxx-xx
 ga_domain: tyrionxu.me
 
 
@@ -92,9 +91,6 @@ friends: [
         href: "#"
     },{
         title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
         href: "#"
     }
 ]
