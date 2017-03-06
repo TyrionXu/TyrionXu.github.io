@@ -1,4 +1,4 @@
-# Hux blog 模板test 
+# Hux blog 模板 test 
 
 ### [我的博客在这里](http://huxpro.github.io)
 
