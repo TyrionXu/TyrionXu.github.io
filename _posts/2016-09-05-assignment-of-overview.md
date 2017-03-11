@@ -1,14 +1,13 @@
 ---
-layout: post
-title: "data science 101"
-description: first week summary of learning
-headline: 
-category: python study
-tags: [Jekyll, data science]
-imagefeature: picture-25.jpg
-comments: true
-mathjax: 
----
+layout:     post
+title:      "data science 101"
+subtitle:   "first week summary of learning"
+date:       2016-09-05 11:00:00
+author:     "Tyrion"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - python
+--- 
 # 笔记
 ---
 ## 数据科学介绍
